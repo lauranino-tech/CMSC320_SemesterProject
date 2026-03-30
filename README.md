@@ -96,8 +96,8 @@ The cleaned dataset is stored in _weather.csv_, please do not update this datase
 
 ## Task 2.3 - Data Exploration 2
 
-    Members: (ENTER NAME(S) HERE)
-    Status: Not Started
+    Members: Seth C.
+    Status: In Progress
 
 **Task:** Perform data exploration using a unique statistical method. Incorporate at least one plot.
 
