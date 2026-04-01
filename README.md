@@ -77,25 +77,6 @@ The cleaned dataset is stored in _weather.csv_, please do not update this datase
 
 **Instructions:** For each task below please write your name(s) to inform one another about who is working on what. Once a task is completed move it to [<-- COMPLETED -->](#---completed---) and add any additional information. If you need a specific task done, add it to this list so everyone remains informed.
 
-
-## Task 2.4 - Data Exploration 3 (Hypothesis Testing)
-
-    Members: Aaryan S.
-    Status: In progress
-
-**Task:** Perform data exploration using a hypothesis testing method. Incorporate at least one plot.
-
-**PLEASE CONSULT RUBRIC**
-
-**Files:**
-
-- _data_exploration.ipynb_ - Use this notebook to perform the data exploration task. The notebook is divided into three sections for each data exploration task.
-
-**Progress:**
-
-- Finished coding most of it, might need to check over once
-- Working on conclusion, should be done by tomorrow
-
 ## Task 2.5 - Project Checkpoint 2
 
     Members: Max D
@@ -110,6 +91,21 @@ Prerequisite: [Task 2.2](#task-22---data-exploration-1), [Task 2.3](#task-23---d
 # <-- COMPLETED -->
 
 **Instructions:** Move tasks here from [--> TO-DO <--](#---to-do---) when completed. Adding additional information regarding its completion is preferred (COMMENT YOUR CODE). Record date of completion, members involved, and any other relevant information. Do not remove completed tasks from here.
+
+## Task 2.4 - Data Exploration 3 (Hypothesis Testing)
+
+    Members: Aaryan S.
+    Status: Completed 4/1/26
+
+**Task:** Perform data exploration using a hypothesis testing method. Incorporate at least one plot.
+
+**PLEASE CONSULT RUBRIC**
+
+**Files:**
+
+- _data_exploration.ipynb_ - Use this notebook to perform the data exploration task. The notebook is divided into three sections for each data exploration task.
+
+**Result:** Performed an ANOVA test on three latitude bands to determine if total percipitation differed. Through TukeyHSD post-hoc test it was concluded that the Southern latitude band significantly differed thus rejecting null hypothesis. The generated box plot supported this conclusion with the Southern latitude having smaller spread and lower median.
 
 ## Task 2.3 - Data Exploration 2
 
