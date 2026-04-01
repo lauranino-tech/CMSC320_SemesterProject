@@ -8,11 +8,11 @@
   - [README Instructions](#readme-instructions)
   - [Current Setup](#current-setup)
 - [--\> TO-DO \<--](#---to-do---)
-  - [Task 2.2 - Data Exploration 1](#task-22---data-exploration-1)
-  - [Task 2.3 - Data Exploration 2](#task-23---data-exploration-2)
-  - [Task 2.4 - Data Exploration 3 (Hypothesis Testing)](#task-24---data-exploration-3-hypothesis-testing)
-  - [Task 2.5 - Project Checkpoint 2](#task-25---project-checkpoint-2)
 - [\<-- COMPLETED --\>](#---completed---)
+  - [Task 2.5 - Project Checkpoint 2](#task-25---project-checkpoint-2)
+  - [Task 2.4 - Data Exploration 3 (Hypothesis Testing)](#task-24---data-exploration-3-hypothesis-testing)
+  - [Task 2.3 - Data Exploration 2](#task-23---data-exploration-2)
+  - [Task 2.2 - Data Exploration 1](#task-22---data-exploration-1)
   - [Task 2.1 - Data Cleaning](#task-21---data-cleaning)
   - [Task 2.0 - Convert Dataset to CSV](#task-20---convert-dataset-to-csv)
   - [Task 1.1 - Project Checkpoint 1](#task-11---project-checkpoint-1)
@@ -35,8 +35,8 @@
 **Important Deadlines**
 
 - <font color='grey'>February 26, 2026 - First Checkpoint Due (COMPLETED)</font>
-- <font color='orange'>March 31, 2026 - Second Checkpoint Due (UPCOMING)</font>
-- May 8, 2026 - Final Checkpoint Due
+- <font color='grey'>April 1, 2026 - Second Checkpoint Due (COMPLETED)</font>
+- <font color='orange'>May 8, 2026 - Final Checkpoint Due (UPCOMING)</font>
 
 **Dataset Link:** https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels-monthly-means?tab=overview (YOU DO NOT NEED TO DOWNLOAD THIS)
 
@@ -77,44 +77,46 @@ The cleaned dataset is stored in _weather.csv_, please do not update this datase
 
 **Instructions:** For each task below please write your name(s) to inform one another about who is working on what. Once a task is completed move it to [<-- COMPLETED -->](#---completed---) and add any additional information. If you need a specific task done, add it to this list so everyone remains informed.
 
-## Task 2.5 - Project Checkpoint 2
-
-    Members: Max D
-    Status: Not Started
-
-Prerequisite: [Task 2.2](#task-22---data-exploration-1), [Task 2.3](#task-23---data-exploration-2), [Task 2.4](#task-24---data-exploration-3-hypothesis-testing)
-
-**Task:** Complete and submit Project Checkpoint 2.
-
 ---
 
 # <-- COMPLETED -->
 
 **Instructions:** Move tasks here from [--> TO-DO <--](#---to-do---) when completed. Adding additional information regarding its completion is preferred (COMMENT YOUR CODE). Record date of completion, members involved, and any other relevant information. Do not remove completed tasks from here.
 
+## Task 2.5 - Project Checkpoint 2
+
+    Worked-On: Max D
+    Completed: 04/01/2026
+
+
+**Task:** Complete and submit Project Checkpoint 2.
+
+**Result:** Submitted Project Checkpoint 2 and adjusted files in specified folder
+
+**Files:**
+- _Checkpoint_Submissions_ - Folder containing future checkpoint submissions and their corresponding notebook files and datasets.
+  - _Checkpoint_2_ - Folder contianing submission for Project Checkpoint 2 as well as associated datasets.
+    - _checkpoint_2_submission.ipynb_ - Notebook containing submission for Project Checkpoint 2
+
 ## Task 2.4 - Data Exploration 3 (Hypothesis Testing)
 
-    Members: Aaryan S.
-    Status: Completed 4/1/26
+    Worked-On: Aaryan S.
+    Completed: 04/01/2026
 
 **Task:** Perform data exploration using a hypothesis testing method. Incorporate at least one plot.
 
-**PLEASE CONSULT RUBRIC**
+**Result:** Performed an ANOVA test on three latitude bands to determine if total percipitation differed. Through TukeyHSD post-hoc test it was concluded that the Southern latitude band significantly differed thus rejecting null hypothesis. The generated box plot supported this conclusion with the Southern latitude having smaller spread and lower median.
 
 **Files:**
 
 - _data_exploration.ipynb_ - Use this notebook to perform the data exploration task. The notebook is divided into three sections for each data exploration task.
 
-**Result:** Performed an ANOVA test on three latitude bands to determine if total percipitation differed. Through TukeyHSD post-hoc test it was concluded that the Southern latitude band significantly differed thus rejecting null hypothesis. The generated box plot supported this conclusion with the Southern latitude having smaller spread and lower median.
-
 ## Task 2.3 - Data Exploration 2
 
-    Members: Seth C.
-    Status: Completed 4/1/26
+    Worked-On: Seth C.
+    Completed: 04/01/2026
 
 **Task:** Perform data exploration using a unique statistical method. Incorporate at least one plot.
-
-**PLEASE CONSULT RUBRIC**
 
 **Files:**
 

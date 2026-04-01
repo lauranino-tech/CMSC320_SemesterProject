@@ -1,0 +1,31 @@
+location,continent,latitude,longitude
+"Tokyo, Japan",Asia,35.75,139.75
+"Singapore, Singapore",Asia,1.25,103.75
+"Dubai, UAE",Asia,25.25,55.25
+"Beijing, China",Asia,40.0,116.5
+"Mumbai, India",Asia,19.0,73.0
+"Seoul, South Korea",Asia,37.5,127.0
+"Bangkok, Thailand",Asia,13.75,100.5
+"New York City, NY",North America,40.75,286.0
+"Los Angeles, CA",North America,34.0,241.75
+"Chicago, IL",North America,42.0,272.25
+"Mexico City, Mexico",North America,19.5,260.75
+"Miami, FL",North America,25.75,279.75
+"Vancouver, Canada",North America,49.25,237.0
+"Sao Paulo, Brazil",South America,-23.5,313.25
+"Buenos Aires, Argentina",South America,-34.5,301.5
+"Lima, Peru",South America,-12.0,283.0
+"Rio de Janeiro, Brazil",South America,-23.0,316.75
+"Bogota, Colombia",South America,4.75,286.0
+"Cairo, Egypt",Africa,30.0,31.25
+"Lagos, Nigeria",Africa,6.5,3.5
+"Nairobi, Kenya",Africa,-1.25,36.75
+"Cape Town, South Africa",Africa,-34.0,18.5
+"London, United Kingdom",Europe,51.5,0.0
+"Paris, France",Europe,48.75,2.25
+"Moscow, Russia",Europe,55.75,37.5
+"Sydney, Australia",Oceania,-33.75,151.25
+"Melbourne, Australia",Oceania,-37.75,145.0
+"Perth, Australia",Oceania,-32.0,115.75
+"McMurdo Station, Antarctica",Antarctica,-77.75,166.75
+"Amundsen-Scott, Antarctica",Antarctica,-90.0,0.0
