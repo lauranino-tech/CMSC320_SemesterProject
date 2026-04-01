@@ -77,22 +77,6 @@ The cleaned dataset is stored in _weather.csv_, please do not update this datase
 
 **Instructions:** For each task below please write your name(s) to inform one another about who is working on what. Once a task is completed move it to [<-- COMPLETED -->](#---completed---) and add any additional information. If you need a specific task done, add it to this list so everyone remains informed.
 
-## Task 2.3 - Data Exploration 2
-
-    Members: Seth C.
-    Status: In Progress
-
-**Task:** Perform data exploration using a unique statistical method. Incorporate at least one plot.
-
-**PLEASE CONSULT RUBRIC**
-
-**Files:**
-
-- _data_exploration.ipynb_ - Use this notebook to perform the data exploration task. The notebook is divided into three sections for each data exploration task.
-
-**Progress:**
-
-- LIST PROGRESS HERE
 
 ## Task 2.4 - Data Exploration 3 (Hypothesis Testing)
 
@@ -126,6 +110,21 @@ Prerequisite: [Task 2.2](#task-22---data-exploration-1), [Task 2.3](#task-23---d
 # <-- COMPLETED -->
 
 **Instructions:** Move tasks here from [--> TO-DO <--](#---to-do---) when completed. Adding additional information regarding its completion is preferred (COMMENT YOUR CODE). Record date of completion, members involved, and any other relevant information. Do not remove completed tasks from here.
+
+## Task 2.3 - Data Exploration 2
+
+    Members: Seth C.
+    Status: Completed 4/1/26
+
+**Task:** Perform data exploration using a unique statistical method. Incorporate at least one plot.
+
+**PLEASE CONSULT RUBRIC**
+
+**Files:**
+
+- _data_exploration.ipynb_ - Use this notebook to perform the data exploration task. The notebook is divided into three sections for each data exploration task.
+
+**Result:** Performed quantile analysis on global temperature and temperature contained to each continent, prodcuing a box plot that visualizes the effect of Anatarctica on the skew of global temperature.
 
 ## Task 2.2 - Data Exploration 1
 
