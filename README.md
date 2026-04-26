@@ -8,6 +8,15 @@
   - [README Instructions](#readme-instructions)
   - [Current Setup](#current-setup)
 - [--\> TO-DO \<--](#---to-do---)
+  - [Task 3.0 - Header \& Contribution Section](#task-30---header--contribution-section)
+  - [Task 3.1 - Introduction Section](#task-31---introduction-section)
+  - [Task 3.2 - Data Curation Section](#task-32---data-curation-section)
+  - [Task 3.3 - Exploratory Data Analysis Section](#task-33---exploratory-data-analysis-section)
+  - [Task 3.4 - Primary Analysis Section](#task-34---primary-analysis-section)
+  - [Task 3.5 - Visualization Section](#task-35---visualization-section)
+  - [Task 3.6 - Insights \& Conclusions Section](#task-36---insights--conclusions-section)
+  - [Task 3.7 - GitHub Pages Publishing](#task-37---github-pages-publishing)
+  - [Task 3.8 - Project Final Checkpoint](#task-38---project-final-checkpoint)
 - [\<-- COMPLETED --\>](#---completed---)
   - [Task 2.5 - Project Checkpoint 2](#task-25---project-checkpoint-2)
   - [Task 2.4 - Data Exploration 3 (Hypothesis Testing)](#task-24---data-exploration-3-hypothesis-testing)
@@ -55,7 +64,8 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Files:**
 
 - <font color='lightgreen'>_README.md_</font> - You're reading it.
-- <font color='lightgreen'>_data_exploration.ipynb_</font> - Notebook that performs basic data exploration.
+- <font color='lightgreen'>_final_tutorial.ipynb_</font> - Notebook that acts as the final tutorial for the final project submission.
+- _data_exploration.ipynb_ - Notebook that performs basic data exploration.
 - _data_cleaning.ipynb_ - Notebook that performs basic data cleaning.
 - _subset_selection.ipynb_ - Notebook that extracts desired data subset to analyze from main dataset.
 - <font color='lightgreen'>_weather.csv_</font> - Main cleaned dataset to analyze and work with. DO NOT UPDATE this dataset.
@@ -63,7 +73,7 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 - _sql_database_setup.py_ - Utility file that creates SQL database from an original large dataset.
 - _grib_to_csv.py_ - Utility file that converts GRIB (gridded weather) files to readable CSV.
 
-The cleaned dataset is stored in _weather.csv_, please do not update this dataset, if you decide to create another CSV file based on this dataset, name it something else to avoid confusion or accidental overwriting.
+**NEW IMPORTANT**: Unlike last checkpoint, _weather.csv_ does not contain cleaned data. Cleaned data is located in the **full_df** variable in the final tutorial. Do not edit, update, or change the original dataset or dataframe (COPY ONLY).
 
 **Important**: We will be using a small subset of the full dataset. Please do not download the dataset as it is far too large and time intensive to handle, instead _weather.csv_ contains the subset we will be using after it has already been cleaned.
 
@@ -76,6 +86,102 @@ The cleaned dataset is stored in _weather.csv_, please do not update this datase
 # --> TO-DO <--
 
 **Instructions:** For each task below please write your name(s) to inform one another about who is working on what. Once a task is completed move it to [<-- COMPLETED -->](#---completed---) and add any additional information. If you need a specific task done, add it to this list so everyone remains informed.
+
+## Task 3.0 - Header & Contribution Section
+    Members: Everyone
+    Progress: In-Progress
+
+**Task:** Complete the header and contribution section of the final tutorial. This should updated as contributions are made.
+
+**Progress:**
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.1 - Introduction Section
+    Members: [NAMES HERE]
+    Progress: Not Started
+
+**Task:** Complete the introduction section of the final tutorial. Can be done at the beginning or end but should match the question answered in [Task 3.4](#task-34---primary-analysis-section).
+
+**Progress:**
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+  
+## Task 3.2 - Data Curation Section
+    Members: Max D
+    Progress: In-Progress
+
+**Task:** Complete the data curation section of the final tutorial. This part was completed for Checkpoint 2 as only needs to be better organized and further elaborated on.
+
+**Progress:** Copied over from Project Checkpoint 2 so later sections can work properly.
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.3 - Exploratory Data Analysis Section
+    Members: Max D
+    Progress: In-Progress
+
+**Task:** Complete the exploratory data analysis section of the final tutorial. This part was completed for Checkpoint 2 and only needs to be moved over.
+
+**Progress:** Copied over from Project Checkpoint 2 so later sections can use it for context.
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.4 - Primary Analysis Section
+    Members: [NAMES HERE]
+    Progress: Not Started
+
+**Task:** Complete the primary analysis section of the final tutorial. This includes utilizing machine learning techniques to answer the question posed in [Task 3.1](#task-31---introduction-section) (or create one here if not done so).
+
+**Suggestion**: Random Forest Classifier (or Regressor) often has the highest performance for weather data so it may be recommended to build a model with that as the base. But also feel free to experiment and use other models. BE SURE TO USE random_state=42 FOR ALL RANDOM PROCESSES!
+
+**Progress:**
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.5 - Visualization Section
+    Members: [NAMES HERE]
+    Progress: Not Started
+
+**Task:** Complete the visualization section of the final tutorial. This must explain the results made in the previous section [Task 3.4](#task-34---primary-analysis-section).
+
+**Progress:**
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.6 - Insights & Conclusions Section
+    Members: [NAMES HERE]
+    Progress: Not Started
+
+**Task:** Complete the insights and conclusion section of the final tutorial. Summarize the project as a whole and tie up and loose questions.
+
+**Progress:**
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.7 - GitHub Pages Publishing
+    Members: Max D
+    Progress: Not Started
+
+**Task:** Setup a GitHub Pages site that will contain the completed tutorial. Add the completed tutorial.
+
+**Progress:**
+
+**Files:**
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.8 - Project Final Checkpoint
+    Members: Max D
+    Progress: Not Started
+
+**Task:** Complete and submit Project Final Checkpoint.
 
 ---
 
