@@ -88,6 +88,7 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Instructions:** For each task below please write your name(s) to inform one another about who is working on what. Once a task is completed move it to [<-- COMPLETED -->](#---completed---) and add any additional information. If you need a specific task done, add it to this list so everyone remains informed.
 
 ## Task 3.0 - Header & Contribution Section
+
     Members: Everyone
     Progress: In-Progress
 
@@ -96,9 +97,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:**
 
 **Files:**
+
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.1 - Introduction Section
+
     Members: [NAMES HERE]
     Progress: Not Started
 
@@ -107,9 +110,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:**
 
 **Files:**
+
 - _final_tutorial.ipynb_ - Location of final tutorial
-  
+
 ## Task 3.2 - Data Curation Section
+
     Members: Max D
     Progress: In-Progress
 
@@ -118,9 +123,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:** Copied over from Project Checkpoint 2 so later sections can work properly.
 
 **Files:**
+
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.3 - Exploratory Data Analysis Section
+
     Members: Max D
     Progress: In-Progress
 
@@ -129,22 +136,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:** Copied over from Project Checkpoint 2 so later sections can use it for context.
 
 **Files:**
-- _final_tutorial.ipynb_ - Location of final tutorial
 
-## Task 3.4 - Primary Analysis Section
-    Members: [NAMES HERE]
-    Progress: Not Started
-
-**Task:** Complete the primary analysis section of the final tutorial. This includes utilizing machine learning techniques to answer the question posed in [Task 3.1](#task-31---introduction-section) (or create one here if not done so).
-
-**Suggestion**: Random Forest Classifier (or Regressor) often has the highest performance for weather data so it may be recommended to build a model with that as the base. But also feel free to experiment and use other models. BE SURE TO USE random_state=42 FOR ALL RANDOM PROCESSES!
-
-**Progress:**
-
-**Files:**
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.5 - Visualization Section
+
     Members: [NAMES HERE]
     Progress: Not Started
 
@@ -153,9 +149,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:**
 
 **Files:**
+
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.6 - Insights & Conclusions Section
+
     Members: [NAMES HERE]
     Progress: Not Started
 
@@ -164,9 +162,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:**
 
 **Files:**
+
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.7 - GitHub Pages Publishing
+
     Members: Max D
     Progress: Not Started
 
@@ -175,9 +175,11 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:**
 
 **Files:**
+
 - _final_tutorial.ipynb_ - Location of final tutorial
 
 ## Task 3.8 - Project Final Checkpoint
+
     Members: Max D
     Progress: Not Started
 
@@ -189,17 +191,34 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 
 **Instructions:** Move tasks here from [--> TO-DO <--](#---to-do---) when completed. Adding additional information regarding its completion is preferred (COMMENT YOUR CODE). Record date of completion, members involved, and any other relevant information. Do not remove completed tasks from here.
 
+## Task 3.4 - Primary Analysis Section
+
+    Members: Aaryan S.
+    Progress: Completed 5/4
+
+**Task:** Complete the primary analysis section of the final tutorial. This includes utilizing machine learning techniques to answer the question posed in [Task 3.1](#task-31---introduction-section) (or create one here if not done so).
+
+**Suggestion**: Random Forest Classifier (or Regressor) often has the highest performance for weather data so it may be recommended to build a model with that as the base. But also feel free to experiment and use other models. BE SURE TO USE random_state=42 FOR ALL RANDOM PROCESSES!
+
+**Progress:**
+
+- Compared Linear Regression model to Random Forest Classifier model
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
+
 ## Task 2.5 - Project Checkpoint 2
 
     Worked-On: Max D
     Completed: 04/01/2026
-
 
 **Task:** Complete and submit Project Checkpoint 2.
 
 **Result:** Submitted Project Checkpoint 2 and adjusted files in specified folder
 
 **Files:**
+
 - _Checkpoint_Submissions_ - Folder containing future checkpoint submissions and their corresponding notebook files and datasets.
   - _Checkpoint_2_ - Folder contianing submission for Project Checkpoint 2 as well as associated datasets.
     - _checkpoint_2_submission.ipynb_ - Notebook containing submission for Project Checkpoint 2
