@@ -100,19 +100,6 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 
 - _final_tutorial.ipynb_ - Location of final tutorial
 
-## Task 3.1 - Introduction Section
-
-    Members: [NAMES HERE]
-    Progress: Not Started
-
-**Task:** Complete the introduction section of the final tutorial. Can be done at the beginning or end but should match the question answered in [Task 3.4](#task-34---primary-analysis-section).
-
-**Progress:**
-
-**Files:**
-
-- _final_tutorial.ipynb_ - Location of final tutorial
-
 ## Task 3.2 - Data Curation Section
 
     Members: Max D
@@ -188,6 +175,19 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 ---
 
 # <-- COMPLETED -->
+
+## Task 3.1 - Introduction Section
+
+    Members: Spencer Feldmann
+    Progress: Completed
+
+**Task:** Complete the introduction section of the final tutorial. Can be done at the beginning or end but should match the question answered in [Task 3.4](#task-34---primary-analysis-section).
+
+**Result:** Wrote introduction motivating the project around global warming and climate change. Described the ERA5 dataset source, coverage, and variables. Outlined the three core research questions guiding the analysis.
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
 
 **Instructions:** Move tasks here from [--> TO-DO <--](#---to-do---) when completed. Adding additional information regarding its completion is preferred (COMMENT YOUR CODE). Record date of completion, members involved, and any other relevant information. Do not remove completed tasks from here.
 
