@@ -202,7 +202,7 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 
 **Task:** Complete the visualization section of the final tutorial. This must explain the results made in the previous section [Task 3.4](#task-34---primary-analysis-section).
 
-**Result:** Created scatterplots to visualize the accuracy of our Random Forest Regressor and Linear Regressor. Also created a boxplot to visualize the importance of different features in the Random Forest Regressor.
+**Result:** Created scatterplots to visualize the accuracy of our Random Forest Regressor and Linear Regressor. Also created a barplot to visualize the importance of different features in the Random Forest Regressor.
 
 **Files:**
 
