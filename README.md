@@ -126,19 +126,6 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 
 - _final_tutorial.ipynb_ - Location of final tutorial
 
-## Task 3.5 - Visualization Section
-
-    Members: [NAMES HERE]
-    Progress: Not Started
-
-**Task:** Complete the visualization section of the final tutorial. This must explain the results made in the previous section [Task 3.4](#task-34---primary-analysis-section).
-
-**Progress:**
-
-**Files:**
-
-- _final_tutorial.ipynb_ - Location of final tutorial
-
 ## Task 3.6 - Insights & Conclusions Section
 
     Members: [NAMES HERE]
@@ -203,6 +190,19 @@ Please read and examine **ALL** files. **Important** files are highlighted <font
 **Progress:**
 
 - Compared Linear Regression model to Random Forest Classifier model
+
+**Files:**
+
+- _final_tutorial.ipynb_ - Location of final tutorial
+
+## Task 3.5 - Visualization Section
+
+    Members: Seth C
+    Progress: Completed
+
+**Task:** Complete the visualization section of the final tutorial. This must explain the results made in the previous section [Task 3.4](#task-34---primary-analysis-section).
+
+**Result:** Created scatterplots to visualize the accuracy of our Random Forest Regressor and Linear Regressor. Also created a boxplot to visualize the importance of different features in the Random Forest Regressor.
 
 **Files:**
 
